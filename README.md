@@ -1,4 +1,4 @@
-# internet_speed_test
+# internet_speed_test_new
 
 [![pub package](https://img.shields.io/pub/v/internet_speed_test_new.svg)](https://pub.dev/packages/internet_speed_test_new)
 
