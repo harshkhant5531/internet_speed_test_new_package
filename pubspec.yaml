@@ -1,0 +1,31 @@
+
+name: internet_speed_test_new
+description: "Flutter plugin for discovering the download and upload speed of the network (WiFi & mobile/cellular) on Android and iOS."
+version: 1.0.5
+
+homepage: https://github.com/harshkhant5531
+repository: https://github.com/harshkhant5531/internet_speed_test_new_package
+issue_tracker: https://github.com/harshkhant5531/internet_speed_test_new_package/issues
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.example.internet_speed_test_new
+        pluginClass: InternetSpeedTestNewPlugin
+      ios:
+        pluginClass: InternetSpeedTestNewPlugin

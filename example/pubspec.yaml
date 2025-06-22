@@ -1,0 +1,15 @@
+name: internet_speed_test_new_example
+description: Demonstrates how to use the internet_speed_test_new plugin.
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  internet_speed_test_new:
+    path: ../
+flutter:
+  uses-material-design: true
