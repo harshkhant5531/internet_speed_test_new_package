@@ -93,6 +93,7 @@ Platform Support
 
 
 🙂Contributions are welcome! Feel free to open issues or submit pull requests.
+If you found any error than contact to khantharsh87@gmail.com
 
 
 
