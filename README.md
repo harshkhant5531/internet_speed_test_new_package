@@ -112,7 +112,7 @@ flutter run
 Contributions are welcome!
 Feel free to open [issues](https://github.com/your-repo/issues) or submit pull requests.
 
-**Found an issue?** Contact me: [khantharsh87@gmail.com](mailto:khantharsh87@gmail.com)
+**Found an issue?** 📧 Email: <khantharsh87@gmail.com>
 
 ---
 
