@@ -45,14 +45,6 @@ import 'package:internet_speed_test_new/internet_speed_test_new.dart';
 
 ---
 
-### 3. Create an Instance
-
-```dart
-final networkSpeed = NetworkSpeedPlus();
-```
-
----
-
 ### 4. Measure Internet Speed
 
 #### 📥 Download Speed
