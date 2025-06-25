@@ -22,7 +22,7 @@ Add the dependency in your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  internet_speed_test_new: ^1.0.5
+  internet_speed_test_new: ^1.0.6
 ```
 **Then run**
 ```termianl
