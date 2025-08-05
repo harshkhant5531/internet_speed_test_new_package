@@ -7,6 +7,12 @@ Supports both **WiFi** and **mobile (cellular)** networks.
 
 ---
 
+## 📸 Screenshots
+
+| Android UI | Upload/Download Result |
+|------------|------------------------|
+| ![Screenshot1](https://raw.githubusercontent.com/harshkhant5531/internet_speed_test_new_package/main/screenshots/Screenshot1.png) | ![Screenshot2](https://raw.githubusercontent.com/harshkhant5531/internet_speed_test_new_package/main/screenshots/screenshot2.jpg) |
+
 ## Features
 
 - 🚀 Measure **download speed**
